@@ -71,6 +71,7 @@ int main()
             {
                 resFactorial1=factorial(op1);
             }
+
             if(op2<0)
             {
                 system("cls");
@@ -91,12 +92,14 @@ int main()
             }
             else
             {
-            resDivision=division(op1,op2);
-            resProducto=producto(op1,op2);
+                resDivision=division(op1,op2);
+                resProducto=producto(op1,op2);
             }
+
             flag3=1;
             break;
             }
+
             else
             {
                 system("cls");
@@ -109,23 +112,24 @@ int main()
         case 4 :
             if(flag3==1)
             {
-            system("cls");
+                system("cls");
 
-            printf("El resultado de %.2f+%.2f es: %.2f\n" ,op1,op2,resSuma);
-            printf("El resultado de %.2f-%.2f es: %.2f\n" ,op1,op2,resResta);
-            printf("El resultado de %.2f/%.2f es: %.2f\n" ,op1,op2,resDivision);
-            printf("El resultado de %.2f*%.2f es: %.2f\n" ,op1,op2,resProducto);
-            printf("El factorial de %.2f es %.2f y el factorial de %.2f es %.2f\n" ,op1,resFactorial1,op2,resFactorial2);
-            system("pause");
-            op1=0;
-            op2=0;
-            flag1=0;
-            flag2=0;
-            flag3=0;
+                printf("El resultado de %.2f+%.2f es: %.2f\n" ,op1,op2,resSuma);
+                printf("El resultado de %.2f-%.2f es: %.2f\n" ,op1,op2,resResta);
+                printf("El resultado de %.2f/%.2f es: %.2f\n" ,op1,op2,resDivision);
+                printf("El resultado de %.2f*%.2f es: %.2f\n" ,op1,op2,resProducto);
+                printf("El factorial de %.2f es %.2f y el factorial de %.2f es %.2f\n" ,op1,resFactorial1,op2,resFactorial2);
+                system("pause");
+                op1=0;
+                op2=0;
+                flag1=0;
+                flag2=0;
+                flag3=0;
 
 
-            break;
+                break;
             }
+
             if(flag3!=1)
             {
                 system("cls");
@@ -143,6 +147,7 @@ int main()
             printf("Esa opcion no es valida\n");
             system("pause");
             break;
+
         }
 
     }
