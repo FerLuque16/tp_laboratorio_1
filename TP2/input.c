@@ -5,41 +5,6 @@
 #include <time.h>
 #include "input.h"
 
-/*int getInt(char mensaje[])
-{
-    int auxiliar;
-    printf("%s",mensaje);
-    scanf("%d",&auxiliar);
-    return auxiliar;
-}*/
-
-/*float getFloat(char mensaje[])
-{
-    float auxiliar;
-    printf("%s",mensaje);
-    scanf("%f",&auxiliar);
-    return auxiliar;
-}*/
-
-/*char getChar(char mensaje[])
-{
-    char auxiliar;
-    printf("%s",mensaje);
-    fflush(stdin);
-    scanf("%c",&auxiliar);
-    return auxiliar;
-}*/
-
-/**
-* \brief Solicita un número al usuario y lo valida
-* \param input Se carga el numero ingresado
-* \param message Es el mensaje a ser mostrado
-* \param eMessage Es el mensaje a ser mostrado en caso de error
-* \param lowLimit Limite inferior a validar
-* \param hiLimit Limite superior a validar
-* \return Si obtuvo el numero [0] si no [-1]
-*
-*/
 int getInt(int* input,char message[],char eMessage[], int lowLimit, int hiLimit)
 {
     setbuf(stdin,NULL);

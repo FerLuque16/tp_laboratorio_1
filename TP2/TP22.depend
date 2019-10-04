@@ -120,3 +120,20 @@
 	"input.h"
 	"ArrayEmployees.h"
 
+1570217013 source:c:\users\daiana\desktop\git\tp_laboratorio_1\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"ArrayEmployees.h"
+
+1570197562 c:\users\daiana\desktop\git\tp_laboratorio_1\tp2\input.h
+
+1570198930 c:\users\daiana\desktop\git\tp_laboratorio_1\tp2\arrayemployees.h
+
+1570217645 source:c:\users\daiana\desktop\git\tp_laboratorio_1\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"ArrayEmployees.h"
+
