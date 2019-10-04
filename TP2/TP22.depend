@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1569651200 source:c:\users\daiana\desktop\juego\tp22\input.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+
+1569647985 c:\users\daiana\desktop\juego\tp22\input.h
+
+1569652397 source:c:\users\daiana\desktop\juego\tp22\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"ArrayEmployees.h"
+
+1569652377 source:c:\users\daiana\desktop\juego\tp22\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"ArrayEmployees.h"
+
+1569652431 c:\users\daiana\desktop\juego\tp22\arrayemployees.h
+
+1569889264 source:c:\users\fer\desktop\programacion i\juego\tp22\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"ArrayEmployees.h"
+
+1569803044 c:\users\fer\desktop\programacion i\juego\tp22\input.h
+
+1569888149 c:\users\fer\desktop\programacion i\juego\tp22\arrayemployees.h
+
+1569889409 source:c:\users\fer\desktop\programacion i\juego\tp22\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"ArrayEmployees.h"
+
+1569878872 source:c:\users\fer\desktop\programacion i\juego\tp22\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"input.h"
+
+1569878872 source:c:\users\fer\desktop\programacion i\juego\tp2\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"input.h"
+
+1569803044 c:\users\fer\desktop\programacion i\juego\tp2\input.h
+
+1570078319 source:c:\users\fer\desktop\programacion i\juego\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"ArrayEmployees.h"
+
+1570077673 c:\users\fer\desktop\programacion i\juego\tp2\arrayemployees.h
+
+1570078232 source:c:\users\fer\desktop\programacion i\juego\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"ArrayEmployees.h"
+
+1570197715 source:c:\users\daiana\desktop\practicatp2-master\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"ArrayEmployees.h"
+
+1570197562 c:\users\daiana\desktop\practicatp2-master\tp2\input.h
+
+1570197562 c:\users\daiana\desktop\practicatp2-master\tp2\arrayemployees.h
+
+1570197562 source:c:\users\daiana\desktop\practicatp2-master\tp2\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"input.h"
+
+1570197921 source:c:\users\daiana\desktop\practicatp2-master\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"ArrayEmployees.h"
+
+1570197562 source:c:\users\daiana\desktop\fer\tp2\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"input.h"
+
+1570197562 c:\users\daiana\desktop\fer\tp2\input.h
+
+1570217049 source:c:\users\daiana\desktop\fer\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"ArrayEmployees.h"
+
+1570198930 c:\users\daiana\desktop\fer\tp2\arrayemployees.h
+
+1570217013 source:c:\users\daiana\desktop\fer\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"input.h"
+	"ArrayEmployees.h"
+
